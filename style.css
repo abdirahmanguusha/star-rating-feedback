@@ -72,6 +72,7 @@ button {
 .thank-you {
     display: none;
     margin-top: 20px;
-    font-size: 18px;
-    color: green;
+    font-size: 35px;
+    color: rgb(249, 253, 249);
+    padding:10px ;
 }
